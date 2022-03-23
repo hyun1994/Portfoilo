@@ -27,7 +27,7 @@
 
 ---
 
-### 2. [두 번째 프로젝트](https://github.com/hyun1994/GoormNLP/blob/main/mrc/komrc.ipynb)
+### 2. [두 번째 프로젝트](https://github.com/hyun1994/GoormNLP/tree/main/mrc)
 >MRC  (팀 프로젝트)  
 >개발 기간: 2021.11.01 ~ 2021.11.12  
 >  
@@ -35,11 +35,11 @@
 >Python / PyTorch / Pandas / Numpy / Transformers  
 >Scrapy / Anaconda / Jupyter Notebook / Colab Pro
 >  
->[프로젝트 상세 설명](https://github.com/hyun1994/GoormNLP/blob/main/mrc/komrc.ipynb) 참고
+>[프로젝트 상세 설명](https://github.com/hyun1994/GoormNLP/tree/main/mrc) 참고
 
 ---
 
-### 3. [세 번째 프로젝트](https://github.com/hyun1994/GoormNLP/blob/main/Textclassification/textclassification_final.ipynb)
+### 3. [세 번째 프로젝트](https://github.com/hyun1994/GoormNLP/tree/main/Textclassification)
 >Text Classification  (팀 프로젝트)  
 >개발 기간: 2021.10.25 ~ 2021.10.29  
 >  
