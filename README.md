@@ -47,7 +47,7 @@
 >Python / PyTorch / Pandas / Numpy / Transformers  
 >Scrapy / Anaconda / Jupyter Notebook / Colab Pro
 >  
->[프로젝트 상세 설명]() 참고
+>[프로젝트 상세 설명](https://github.com/hyun1994/GoormNLP/tree/main/Textclassification) 참고
 
 ---
 
