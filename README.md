@@ -63,7 +63,7 @@
 
 ---
 
-### 5. [다섯 번째 프로젝트](https://github.com/hyun1994/team3_wanted_onboarding_2nd/blob/master/Week1_%EC%B1%84%EC%A7%80%ED%98%84/Week1_final.ipynb)
+### 5. [다섯 번째 프로젝트](https://github.com/hyun1994/team3_wanted_onboarding_2nd/tree/master/Week1_%EC%B1%84%EC%A7%80%ED%98%84)
 >유니콘 기업 찾기  (팀 프로젝트)  
 >개발 기간: 2021.08.01 ~ 2021.08.07  
 >  
@@ -71,4 +71,4 @@
 >Python / Pandas / Numpy / Matplotlib / Seaborn   
 >Anaconda / Jupyter Notebook / Colab
 > 
->[프로젝트 상세 설명](https://github.com/hyun1994/team3_wanted_onboarding_2nd/blob/master/Week1_%EC%B1%84%EC%A7%80%ED%98%84/Week1_final.ipynb) 참고
+>[프로젝트 상세 설명](https://github.com/hyun1994/team3_wanted_onboarding_2nd/tree/master/Week1_%EC%B1%84%EC%A7%80%ED%98%84) 참고
